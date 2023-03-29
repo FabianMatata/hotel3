@@ -17,9 +17,7 @@
 </head>
 
 <body>
-
-
-<!---->
+<!--navbar start-->
 <nav class="navbar sticky-top navbar-expand-lg" style="background-color: #f5f5f5;">
   <!-- Container wrapper -->
   <div class="container-fluid">
@@ -151,7 +149,6 @@
 
 
 <!--about us section-->
-      <!--Section: Content-->
       <div>
         <div>
           <section class="container pt-5">
@@ -171,15 +168,6 @@
                     "
                   ></div>
                 </div>
-
-
-                <!-- <div class="bg-image hover-overlay ripple shadow-2-strong" data-mdb-ripple-color="light">
-                  <img src="./img/res6.jpg" class="img-fluid" />
-                  <a href="#!">
-                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-                  </a>
-                </div> -->
-
               </div>
     
               <div class="col-md-6 gx-5 mb-4">
@@ -189,15 +177,12 @@
                      Menu features a range of delicious dishes that showcase the finest local and seasonal ingredients, prepared by our talented chefs with a focus on flavor and presentation. <br>
                      Our dining spaces are designed to provide a relaxed and comfortable ambiance, with stylish decor and attentive service that ensures a memorable experience. <br>
                      Whether you're looking for an intimate dinner for two or a larger gathering with family and friends, our restaurant facility offers a versatile and welcoming venue for all occasions.</p>
-               
                 </div>
               </div>
             </div>
           </section>
         </div>
       </div>
-
-      <!--Section: Content-->
 <!--about us section-->
 
 <!--gallery section-->
@@ -238,14 +223,6 @@
                 </a>
               </div>
             </div>
-
-            <!-- <div class="card bg-image hover-overlay hover-zoom hover-shadow ripple">
-              <img
-                src="./img/res.JPG"
-                class="card-img-top"
-                alt="Sunset Over the Sea"
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 d-none d-lg-block">
@@ -258,15 +235,6 @@
                 </a>
               </div>
             </div>
-
-<!-- 
-            <div class="card">
-              <img
-                src="./img/res2.jpg"
-                class="card-img-top"
-                alt="Sunset over the Sea"
-              />
-            </div> -->
           </div>
         </div>
       </div>
@@ -286,15 +254,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="img/res3.jpg"
-                class="card-img-top"
-                alt="Fissure in Sandstone"
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 d-none d-lg-block">
@@ -307,15 +266,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="./img/res4.jpg"
-                class="card-img-top"
-                alt="Storm Clouds"
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 d-none d-lg-block">
@@ -328,15 +278,6 @@
                 </a>
               </div>
             </div>
-<!-- 
-
-            <div class="card">
-              <img
-                src="./img/res5.jpg"
-                class="card-img-top"
-                alt="Hot Air Balloons"
-              />
-            </div> -->
           </div>
         </div>
       </div>
@@ -356,15 +297,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="./img/food.JPG"
-                class="card-img-top"
-                alt="Peaks Against the Starry Sky"
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
@@ -377,15 +309,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="./img/food2.JPG"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
@@ -398,15 +321,6 @@
                 </a>
               </div>
             </div>
-
-<!-- 
-            <div class="card">
-              <img
-                src="img/food3.JPG"
-                class="card-img-top"
-                alt="Purbeck Heritage Coast"
-              />
-            </div> -->
           </div>
         </div>
       </div>
@@ -422,29 +336,6 @@
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Next</span>
     </button>
-
-
-    <!-- Controls -->
-    <!-- <div class="d-flex justify-content-center mb-4">
-      <button
-        class="carousel-control-prev position-relative"
-        type="button"
-        data-mdb-target="#carouselMultiItemExample"
-        data-mdb-slide="prev"
-      >
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-      </button>
-      <button
-        class="carousel-control-next position-relative"
-        type="button"
-        data-mdb-target="#carouselMultiItemExample"
-        data-mdb-slide="next"
-      >
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-      </button>
-    </div> -->
 </div>
 </section>
 <!-- Carousel wrapper -->
@@ -455,9 +346,6 @@
   <main class="mt-5">
     <div class="">
 
-
-      <!-- <hr class="my-5" /> -->
-
           <!--Section: Content-->
       <section class="mb-5" id="reservations">
         <h4 class="text-center" style="color: #fea116;"><strong>Reservations</strong></h4>
@@ -467,7 +355,6 @@
         <div class="row d-flex justify-content-center">
           <div class="col-md-6">
             <form>
-              <!-- 2 column grid layout with text inputs for the first and last names -->
               <div class="row mb-4">
                 <div class="col">
                   <div class="form-outline">
@@ -483,7 +370,6 @@
                 </div>
               </div>
 
-              <!-- 2 column grid layout with text inputs for the email and phone number -->
               <div class="row mb-4">
                 <div class="col">
                   <div class="form-outline">
@@ -654,10 +540,7 @@
                     </div>
                   </section>
                   <!-- Section: Links  -->
-        
-                  <!-- <hr class="my-5" /> -->
-        
-        
+                
                   <!-- Copyright -->
                   <div class="text-center p-4" style="background-color: #303031; color: white;">
                     Copyright © 2023 :
@@ -667,23 +550,12 @@
                 </footer>
                 <!-- Footer -->
         
-        
                 <!-- Back to top button -->
                 <button type="button" class="btn btn-floating btn-lg" id="btn-back-to-top" style="background-color: #fea116;">
                   <i class="fas fa-arrow-up"></i>
                 </button>
-        
-        
-        
             </div>
           </main>
-        
-        
-        
-        
-        
-
-              
 
     <!-- Copyright -->
   </footer>

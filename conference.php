@@ -51,7 +51,6 @@
             alt=""
             loading="lazy"
           />
-            <!-- <h4>ARC Hotel</h4> -->
          <small style="font-weight: bold; color: black;">ARC Hotel</small>
           </div>
   
@@ -149,11 +148,7 @@
   </div>
 </div>
 
-
-
-
 <!--about us section-->
-      <!--Section: Content-->
       <div>
         <div>
           <section class="container pt-5">
@@ -173,14 +168,6 @@
                     "
                   ></div>
                 </div>
-
-
-                <!-- <div class="bg-image hover-overlay ripple shadow-2-strong" data-mdb-ripple-color="light">
-                  <img src="./img/lagat.JPG" class="img-fluid" />
-                  <a href="#!">
-                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-                  </a>
-                </div> -->
               </div>
     
               <div class="col-md-6 gx-5 mb-4">
@@ -196,8 +183,6 @@
           </section>
         </div>
       </div>
-
-      <!--Section: Content-->
 <!--about us section-->
 
 <!--gallery section-->
@@ -211,10 +196,6 @@
   class="carousel slide carousel-dark text-center"
   data-mdb-ride="carousel"
 >
-
-
-
-
   <!-- Inner -->
   <div class="carousel-inner py-4">
     <!-- Single item -->
@@ -231,15 +212,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="./img/waterfall.jpg"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 d-none d-lg-block">
@@ -252,16 +224,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card bg-image hover-overlay hover-zoom hover-shadow ripple">
-              <img
-                src="./img/lagat3.JPG"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
-
           </div>
 
           <div class="col-lg-4 d-none d-lg-block">
@@ -274,15 +236,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="./img/conf.JPG"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
         </div>
       </div>
@@ -302,15 +255,6 @@
                 </a>
               </div>
             </div>
-
-<!-- 
-            <div class="card">
-              <img
-                src="./img/conf4.JPG"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 d-none d-lg-block">
@@ -323,15 +267,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="./img/lagat5.JPG"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 d-none d-lg-block">
@@ -344,14 +279,6 @@
                 </a>
               </div>
             </div>
-
-            <!-- <div class="card">
-              <img
-                src="./img/lagat6.JPG"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
         </div>
       </div>
@@ -371,15 +298,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="./img/lagat7.JPG"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
@@ -392,15 +310,6 @@
                 </a>
               </div>
             </div>
-
-<!-- 
-            <div class="card">
-              <img
-                src="./img/lagat8.JPG"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
@@ -413,15 +322,6 @@
                 </a>
               </div>
             </div>
-<!-- 
-
-            <div class="card">
-              <img
-                src="./img/lagat9.JPG"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
         </div>
       </div>
@@ -439,29 +339,7 @@
       <span class="visually-hidden">Next</span>
     </button>
 
- 
 
-    <!-- Controls -->
-    <!-- <div class="d-flex justify-content-center mb-4">
-      <button
-        class="carousel-control-prev position-relative"
-        type="button"
-        data-mdb-target="#carouselMultiItemExample"
-        data-mdb-slide="prev"
-      >
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-      </button>
-      <button
-        class="carousel-control-next position-relative"
-        type="button"
-        data-mdb-target="#carouselMultiItemExample"
-        data-mdb-slide="next"
-      >
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-      </button>
-    </div> -->
 </div>
 </section>
 <!-- Carousel wrapper -->
@@ -471,9 +349,6 @@
   <!--Main layout-->
   <main class="mt-5">
     <div class="">
-
-
-      <!-- <hr class="my-5" /> -->
 
           <!--Section: Content-->
       <section class="mb-5" id="reservations">
@@ -563,8 +438,6 @@
           </div>
         </div>
         </section>
-
-
 
 
                 <!-- Footer -->
@@ -671,10 +544,7 @@
                       <!-- Grid row -->
                     </div>
                   </section>
-                  <!-- Section: Links  -->
-        
-                  <!-- <hr class="my-5" /> -->
-        
+                  <!-- Section: Links  -->        
         
                   <!-- Copyright -->
                   <div class="text-center p-4" style="background-color: #303031; color: white;">
@@ -684,7 +554,6 @@
                   <!-- Copyright -->
                 </footer>
                 <!-- Footer -->
-        
         
                 <!-- Back to top button -->
                 <button type="button" class="btn btn-floating btn-lg" id="btn-back-to-top" style="background-color: #fea116;">

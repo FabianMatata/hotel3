@@ -51,7 +51,6 @@
             alt=""
             loading="lazy"
           />
-            <!-- <h4>ARC Hotel</h4> -->
          <small style="font-weight: bold; color: black;">ARC Hotel</small>
           </div>
   
@@ -150,7 +149,6 @@
 </div>
 
 
-
 <!--about us section-->
       <!--Section: Content-->
       <div>
@@ -172,14 +170,6 @@
                     "
                   ></div>
                 </div>
-
-
-                <!-- <div class="bg-image hover-overlay ripple shadow-2-strong" data-mdb-ripple-color="light">
-                  <img src="./img/wed.JPG" class="img-fluid" />
-                  <a href="#!">
-                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-                  </a>
-                </div> -->
               </div>
     
               <div class="col-md-6 gx-5 mb-4">
@@ -195,8 +185,6 @@
           </section>
         </div>
       </div>
-
-      <!--Section: Content-->
 <!--about us section-->
 
 <!--gallery section-->
@@ -226,15 +214,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="./img/garden2.JPG"
-                class="card-img-top"
-                alt="Waterfall"
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 d-none d-lg-block">
@@ -247,15 +226,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card bg-image hover-overlay hover-zoom hover-shadow ripple">
-              <img
-                src="./img/garden3.JPG"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 d-none d-lg-block">
@@ -268,15 +238,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="./img/tent.JPG"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
         </div>
       </div>
@@ -296,15 +257,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="./img/chair.JPG"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 d-none d-lg-block">
@@ -317,15 +269,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="./img/garden7.jpg"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 d-none d-lg-block">
@@ -338,15 +281,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="./img/garden8.jpg"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
         </div>
       </div>
@@ -366,15 +300,6 @@
                 </a>
               </div>
             </div>
-
-<!-- 
-            <div class="card">
-              <img
-                src="./img/garden9.jpg"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
@@ -387,15 +312,6 @@
                 </a>
               </div>
             </div>
-
-<!-- 
-            <div class="card">
-              <img
-                src="./img/garden10.jpg"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
 
           <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
@@ -408,15 +324,6 @@
                 </a>
               </div>
             </div>
-
-
-            <!-- <div class="card">
-              <img
-                src="./img/garden11.jpg"
-                class="card-img-top"
-                alt=""
-              />
-            </div> -->
           </div>
         </div>
       </div>
@@ -432,29 +339,6 @@
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Next</span>
     </button>
-
-
-    <!-- Controls -->
-    <!-- <div class="d-flex justify-content-center mb-4">
-      <button
-        class="carousel-control-prev position-relative"
-        type="button"
-        data-mdb-target="#carouselMultiItemExample"
-        data-mdb-slide="prev"
-      >
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-      </button>
-      <button
-        class="carousel-control-next position-relative"
-        type="button"
-        data-mdb-target="#carouselMultiItemExample"
-        data-mdb-slide="next"
-      >
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-      </button>
-    </div> -->
 </div>
 </section>
 <!-- Carousel wrapper -->
@@ -464,10 +348,6 @@
   <!--Main layout-->
   <main class="mt-5">
     <div class="">
-
-
-      <!-- <hr class="my-5" /> -->
-
           <!--Section: Content-->
       <section class="mb-5" id="reservations">
         <h4 class="text-center" style="color: #fea116;"><strong>Reservations</strong></h4>
@@ -477,7 +357,6 @@
         <div class="row d-flex justify-content-center">
           <div class="col-md-6">
             <form action="https://formsubmit.co/ombevab@kise.ac.ke" method="POST">
-              <!-- 2 column grid layout with text inputs for the first and last names -->
               <div class="row mb-4">
                 <div class="col">
                   <div class="form-outline">
@@ -493,7 +372,6 @@
                 </div>
               </div>
 
-              <!-- 2 column grid layout with text inputs for the email and phone number -->
               <div class="row mb-4">
                 <div class="col">
                   <div class="form-outline">
@@ -663,10 +541,7 @@
                       <!-- Grid row -->
                     </div>
                   </section>
-                  <!-- Section: Links  -->
-        
-                  <!-- <hr class="my-5" /> -->
-        
+                  <!-- Section: Links  -->        
         
                   <!-- Copyright -->
                   <div class="text-center p-4" style="background-color: #303031; color: white;">
@@ -677,26 +552,14 @@
                 </footer>
                 <!-- Footer -->
         
-        
                 <!-- Back to top button -->
                 <button type="button" class="btn btn-floating btn-lg" id="btn-back-to-top" style="background-color: #fea116;">
                   <i class="fas fa-arrow-up"></i>
                 </button>
-        
-        
-        
+      
             </div>
           </main>
-        
-        
-        
-        
-        
-
-
-
-
-              
+         
 
     <!-- Copyright -->
   </footer>

@@ -50,7 +50,6 @@
               alt=""
               loading="lazy"
             />
-              <!-- <h4>ARC Hotel</h4> -->
            <small style="font-weight: bold; color: black;">ARC Hotel</small>
             </div>
     
@@ -121,82 +120,7 @@
     <!-- Container wrapper -->
   </nav>
 
-  <!---->
   <!-- Navbar -->
-
-<!-- Navbar -->
-
-<!--navbar start-->
-<!-- Navbar
-<nav class="navbar  navbar-expand-lg navbar-light" style="background-color: #fea116;">
-  <div class="container-fluid">
-    <button
-      class="navbar-toggler"
-      type="button"
-      data-mdb-toggle="collapse"
-      data-mdb-target="#navbarSupportedContent"
-      aria-controls="navbarSupportedContent"
-      aria-expanded="false"
-      aria-label="Toggle navigation"
-    >
-      <i class="fas fa-bars"></i>
-    </button>
-    <div class="collapse navbar-collapse container" id="navbarSupportedContent">
-      <a class="navbar-brand mt-2 mt-lg-0" href="#">
-        <small class="ps-2" style="color: #ffff; font-weight: bolder;">Kenya Institute of Special Education</small>
-      </a>
-
-      <div class="ps-3 pe-2">
-        <i class="fa fa-phone" aria-hidden="true"></i>
-      </div>
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link" href="#" rel="nofollow" style="color: aliceblue;"
-            target="_blank">0700 000 000</a>
-        </li>
-      </ul>
-    </div>
-    <div class="d-flex align-items-center pe-5">
-      <div style="color: #ffff;">
-        <a href="" class="me-4 text-reset">
-          <i class="fab fa-facebook-f"></i>
-        </a>
-        <a href="" class="me-4 text-reset">
-          <i class="fab fa-twitter"></i>
-        </a>
-        <a href="" class="me-4 text-reset">
-          <i class="fab fa-instagram"></i>
-        </a>
-        <a href="" class="me-4 text-reset">
-          <i class="fab fa-youtube"></i>
-        </a>
-      </div>
-    </div>
-  </div>
-</nav> -->
-<!-- Navbar -->
-
-  <!-- <div class="d-flex justify-content-start">
-    Kenya Institute of Special Education 
-    <div class="ps-3 pe-2">
-      <i class="fa fa-phone" aria-hidden="true"></i>
-    </div>
-    0700 000 000
-  </div>
-  <div class="d-flex justify-content-end">
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-twitter"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-instagram"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-youtube"></i>
-      </a>
-  </div> -->
 
 
   <!---->
@@ -225,9 +149,6 @@
     </div>
   </div>
 
-  <!---->
-
-
 <!--navbar ends-->
 
 
@@ -249,8 +170,6 @@
       <img src="./img/waterfall6.jpg" class="d-block w-100 "
         alt="" />
       <div class="carousel-caption d-none d-md-block">
-        <!-- <h5>First slide label</h5> -->
-        <!-- <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> -->
       </div>
     </div>
 
@@ -259,8 +178,6 @@
       <img src="./img/lagat.JPG" class="d-block w-100"
         alt="" />
       <div class="carousel-caption d-none d-md-block">
-        <!-- <h5>Second slide label</h5> -->
-        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> -->
       </div>
     </div>
 
@@ -269,8 +186,6 @@
       <img src="./img/seats.JPG" class="d-block w-100"
         alt="" />
       <div class="carousel-caption d-none d-md-block">
-        <!-- <h5>Third slide label</h5> -->
-        <!-- <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p> -->
       </div>
     </div>
   </div>
@@ -289,7 +204,6 @@
 <!-- Carousel wrapper -->
 <!--carousel end-->
   
-
 
   <!--Main layout-->
   <main class="mt-5">
@@ -342,7 +256,6 @@
                 <a href="./accommodation.php" target="_blank">
                   <div class="mask" style="background-color: hsla(195, 83%, 58%, 0.2)"></div>
  
-                  <!-- <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div> -->
                 </a>
               </div>
               <div class="card-body">
@@ -361,8 +274,6 @@
                 <img src="./img/Playground.JPG" class="img-fluid" />
                 <a href="./gardens.php" target="_blank">
                   <div class="mask" style="background-color: hsla(195, 83%, 58%, 0.2)"></div>
-
-                  <!-- <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div> -->
                 </a>
               </div>
               <div class="card-body">
@@ -377,10 +288,8 @@
         </div>
       </section>
       <!--Section: Content-->
-
-      <!-- <hr class="my-5" /> -->
             
-                <!--amenities-->
+      <!--amenities-->
         <section class="mt-5">
           <div class="text-center">
             <h4 class="mb-5 text-center"><strong>Our <span style="color: #fea116;">Amenities</span></strong></h4>
@@ -429,51 +338,39 @@
           </div>
         </section> 
 
-        <!-- <hr class="mx-5"> -->
-
         <section id="section_counter" class="mb-5">
           <div class="container">
             <h3 class="text-center pb-2" style="">Our <span style="color: #fea116;">Numbers</span></h3>
-            <!-- <p class="text-center"> Our Numbers.</p> -->
           </div>
           <div class="container">
             <div class="counter-grid">
               <div class="counter-item">
                 <h3>Restaurant</h3>
-                <!-- <img src="./img/waterfall.jpg" alt="Image" class="counter-img" /> -->
                 <h1 class="counter" data-target="1857">0</h1>
               </div>
               <div class="counter-item">
                 <h3>Conferences</h3>
-                <!-- <img
-                  src="./img/conf.JPG"
-                  alt="Image"
-                  class="counter-img"
-                /> -->
                 <h1 class="counter" data-target="2345">0</h1>
               </div>
               <div class="counter-item">
-                <!-- <img src="./img/bed.JPG" alt="Image" class="counter-img" /> -->
                 <h3>Accomodation</h3>
                 <h1 class="counter" data-target="1410">0</h1>
               </div>
               <div class="counter-item">
                 <h3>Gardens</h3>
-                <!-- <img src="./img/garden.JPG" alt="Image" class="counter-img" /> -->
                 <h1 class="counter" data-target="4700">0</h1>
               </div>
             </div>
           </div>
         </section>
 
-          <!--Section: Content-->
+      <!--Section: Content-->
       <section class="mb-5" >
         <h4 class="mb-5 text-center"><strong> <span style="color: #fea116;">Contact</span> Us</strong></h4>
 
         <div class="row d-flex justify-content-center">
           <div class="col-md-6">
             <form action="https://formsubmit.co/ombevab@kise.ac.ke" method="POST">
-              <!-- 2 column grid layout with text inputs for the first and last names -->
               <div class="row mb-4">
                 <div class="col">
                   <div class="form-outline">
@@ -507,7 +404,7 @@
 
               <!--Message input-->
               <div class="form-outline mb-4">
-                <textarea class="form-control" id="textAreaExample" rows="4"></textarea>
+                <textarea class="form-control" id="textAreaExample" rows="3"></textarea>
                 <label class="form-label" for="textAreaExample">Message</label>
               </div>
 
@@ -521,11 +418,8 @@
         </div>
         </section>
 
-        <!-- <hr class="my-5" /> -->
 
-
-
-                <!-- Footer -->
+        <!-- Footer -->
         <footer class="text-center text-lg-start bg-light text-muted">
           <!-- Section: Social media -->
           <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom" style="background-color: #fea116; color: white;">
@@ -631,9 +525,6 @@
           </section>
           <!-- Section: Links  -->
 
-          <!-- <hr class="my-5" /> -->
-
-
           <!-- Copyright -->
           <div class="text-center p-4" style="background-color: #303031; color: white;">
             Copyright © 2023 :
@@ -643,27 +534,19 @@
         </footer>
         <!-- Footer -->
 
-
         <!-- Back to top button -->
         <button type="button" class="btn btn-floating btn-lg" id="btn-back-to-top" style="background-color: #fea116;">
           <i class="fas fa-arrow-up"></i>
         </button>
-
-
-
     </div>
   </main>
 
 
-
-
-              
-
-    <!-- Copyright -->
+  <!-- Copyright -->
   </footer>
   <!--Footer-->
 
-  <script src="./js/js.js"></script>
+    <script src="./js/js.js"></script>
     <!-- MDB -->
     <script type="text/javascript" src="js/mdb.min.js"></script>
     <!-- Custom scripts -->

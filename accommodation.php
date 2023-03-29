@@ -18,7 +18,7 @@
 
 <body>
 
-  <!---->
+  <!--navbar start-->
   <nav class="navbar sticky-top navbar-expand-lg" style="background-color: #f5f5f5;">
     <!-- Container wrapper -->
     <div class="container-fluid">
@@ -148,8 +148,7 @@
     </div>
   </div>
 
-
-
+<!--navbar ends-->
 
 <!---->
 <div class="mt-5">
@@ -167,9 +166,7 @@
           </div>
           <div class="card-body">
             <h5 class="card-title text-center" style="color: black;"><b>Single Room</b></h5>
-            <!-- <p>Cozy, stylish room for a comfortable solo stay.</p> -->
             <p>Modern decor, comfortable amenities, and attentive service for a relaxing solo retreat.</p>
-            <!-- <p>The rooms are masterfully decorated with a distinctive African elegance and each contains its own wealth of modern amenities.</p> -->
             <ul>
               <li>bathroom & balcony</li>
               <li>disability friendly</li>
@@ -179,7 +176,6 @@
               <span style="color: #fea116; font-size: x-large;">KSh 3,000</span></p>
             <div class="text-center">
               <a href="#!" class="btn" style="background-color: #fea116;">Book</a>
-
             </div>
           </div>
         </div>
@@ -195,11 +191,9 @@
           <div class="card-body">
             <h5 class="card-title text-center" style="color: black;"><b>Double Room</b></h5>
             <p>Offers a spacious and comfortable retreat for couples or friends traveling together.</p>
-            <!-- <p>The rooms are masterfully decorated with a distinctive African elegance and each contains its own wealth of modern amenities.</p> -->
             <ul>
               <li>bathroom & balcony</li>
               <li>disability friendly</li>
-              <!-- <li>spacious king size bed</li> -->
               <li>linen & towels provided</li>
             </ul>
             <p class="ps-5"><b>Price per Night</b> (bed only) <br>
@@ -222,18 +216,15 @@
           <div class="card-body">
             <h5 class="card-title text-center" style="color: black;"><b>Twin Bed Room</b></h5>
             <p>Twin bed room offers a comfortable and convenient retreat for travelers seeking separate beds.</p>
-            <!-- <p>The rooms are masterfully decorated with a distinctive African elegance and each contains its own wealth of modern amenities.</p> -->
             <ul>
               <li>bathroom & balcony</li>
               <li>disability friendly</li>
-              <!-- <li>spacious king size bed</li> -->
               <li>linen & towels provided</li>
             </ul>
             <p class="ps-5"><b>Price per Night</b> (bed only) <br>
               <span style="color: #fea116; font-size: x-large;">KSh 6,000</span></p>
             <div class="text-center">
               <a href="#!" class="btn" style="background-color: #fea116;">Book</a>
-
             </div>
           </div>
         </div>
@@ -243,9 +234,7 @@
 </div>
 
 
-
 <!--gallery section-->
-
 <section class="pt-5" id="gallery">
   <!-- Gallery -->
   <h4 class="text-center mt-3"><strong>Our <span style="color: #fea116;">Gallery</span></strong></h4>
@@ -271,15 +260,6 @@
                   </a>
                 </div>
               </div>
-  
-  
-              <!-- <div class="card">
-                <img
-                  src="./img/garden2.JPG"
-                  class="card-img-top"
-                  alt="Waterfall"
-                />
-              </div> -->
             </div>
   
             <div class="col-lg-4 d-none d-lg-block">
@@ -292,15 +272,6 @@
                   </a>
                 </div>
               </div>
-  
-  
-              <!-- <div class="card bg-image hover-overlay hover-zoom hover-shadow ripple">
-                <img
-                  src="./img/garden3.JPG"
-                  class="card-img-top"
-                  alt=""
-                />
-              </div> -->
             </div>
   
             <div class="col-lg-4 d-none d-lg-block">
@@ -313,15 +284,6 @@
                   </a>
                 </div>
               </div>
-  
-  
-              <!-- <div class="card">
-                <img
-                  src="./img/tent.JPG"
-                  class="card-img-top"
-                  alt=""
-                />
-              </div> -->
             </div>
           </div>
         </div>
@@ -341,15 +303,6 @@
                   </a>
                 </div>
               </div>
-  
-  
-              <!-- <div class="card">
-                <img
-                  src="./img/chair.JPG"
-                  class="card-img-top"
-                  alt=""
-                />
-              </div> -->
             </div>
   
             <div class="col-lg-4 d-none d-lg-block">
@@ -362,15 +315,6 @@
                   </a>
                 </div>
               </div>
-  
-  
-              <!-- <div class="card">
-                <img
-                  src="./img/garden7.jpg"
-                  class="card-img-top"
-                  alt=""
-                />
-              </div> -->
             </div>
   
             <div class="col-lg-4 d-none d-lg-block">
@@ -383,15 +327,6 @@
                   </a>
                 </div>
               </div>
-  
-  
-              <!-- <div class="card">
-                <img
-                  src="./img/garden8.jpg"
-                  class="card-img-top"
-                  alt=""
-                />
-              </div> -->
             </div>
           </div>
         </div>
@@ -411,15 +346,6 @@
                   </a>
                 </div>
               </div>
-  
-  <!-- 
-              <div class="card">
-                <img
-                  src="./img/garden9.jpg"
-                  class="card-img-top"
-                  alt=""
-                />
-              </div> -->
             </div>
   
             <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
@@ -432,15 +358,6 @@
                   </a>
                 </div>
               </div>
-  
-  <!-- 
-              <div class="card">
-                <img
-                  src="./img/garden10.jpg"
-                  class="card-img-top"
-                  alt=""
-                />
-              </div> -->
             </div>
   
             <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
@@ -453,15 +370,6 @@
                   </a>
                 </div>
               </div>
-  
-  
-              <!-- <div class="card">
-                <img
-                  src="./img/garden11.jpg"
-                  class="card-img-top"
-                  alt=""
-                />
-              </div> -->
             </div>
           </div>
         </div>
@@ -477,89 +385,13 @@
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
       </button>
-      <!-- Controls -->
-      <!-- <div class="d-flex justify-content-center mb-4">
-        <button
-          class="carousel-control-prev position-relative"
-          type="button"
-          data-mdb-target="#carouselMultiItemExample"
-          data-mdb-slide="prev"
-        >
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button
-          class="carousel-control-next position-relative"
-          type="button"
-          data-mdb-target="#carouselMultiItemExample"
-          data-mdb-slide="next"
-        >
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div> -->
   </div>
   </section>
   <!-- Carousel wrapper -->
   
-  <!--gallery section end-->
-
-
-
-<!--about us section-->
-      <!--Section: Content-->
-      <!-- <div>
-        <div>
-          <section class="container pt-5">
-            <div class="row">
-              <div class="col-md-6 gx-5 mb-4">
-
-                <div class="bg-image hover-overlay">
-                  <img src="./img/waterfall.jpg" class="w-100" />
-                  <div
-                    class="mask"
-                    style="
-                      background: linear-gradient(
-                        45deg,
-                        hsla(168, 85%, 52%, 0.5),
-                        hsla(263, 88%, 45%, 0.5) 100%
-                      );
-                    "
-                  ></div>
-                </div>
-              </div>
-    
-              <div class="col-md-6 gx-5 mb-4">
-                <h4><strong><span style="color: #fea116;">Accommodation</span></strong></h4>
-                <div class="text-center" style="font-size: large;">
-                  <p class="text-muted">Kenya Institute of Special Education (KISE) is a semi-autonomous government agency of the Ministry of Education, Kenya. <br>
-                     It was established through a Legal Notice No. 17 of 14th February 1986.</p>
-                  <p class="text-muted">An inclusive Kenyan society, in which every child with special needs and disability accesses quality education and achieves their fullest human potential.</p>
-                  <p class="text-muted">Facilitates service provision for persons with special needs and disabilities through human capital development, research, functional assessment, <br>
-                     rehabilitation, Inclusive education practices, technology and production of learning and assistive materials.</p>
-                </div>
-              </div>
-            </div>
-          </section>
-        </div>
-      </div> -->
-
-      <!--Section: Content-->
-<!--about us section-->
-
-<!--gallery section-->
-
-
-<!-- Carousel wrapper -->
-
-<!--gallery section end-->
-
   <!--Main layout-->
   <main class="mt-5">
     <div class="">
-
-
-      <!-- <hr class="my-5" /> -->
 
           <!--Section: Content-->
       <section class="mb-5" id="reservations">
@@ -570,7 +402,6 @@
         <div class="row d-flex justify-content-center">
           <div class="col-md-6">
             <form action="https://formsubmit.co/ombevab@kise.ac.ke" method="POST">
-              <!-- 2 column grid layout with text inputs for the first and last names -->
               <div class="row mb-4">
                 <div class="col">
                   <div class="form-outline">
@@ -586,7 +417,6 @@
                 </div>
               </div>
 
-              <!-- 2 column grid layout with text inputs for the email and phone number -->
               <div class="row mb-4">
                 <div class="col">
                   <div class="form-outline">
@@ -602,20 +432,12 @@
                 </div>
               </div>
 
-              <!-- <div class="mb-3">
-                <div class="form-outline">
-                  <input type="text" id="form3Example2" class="form-control" />
-                  <label class="form-label" for="form3Example2">Room</label>
-                </div>
-              </div> -->
-
                 <select class="form-select mb-2" name="Selected Room" aria-label="Default select example">
                   <option selected>Select Room</option>
                   <option value="1">Single</option>
                   <option value="2">Double</option>
                   <option value="3">Twin Bed</option>
                 </select>
-
 
               <div class="row mb-4">
                 <label class="form-label" for="form6Example1">Check in Date & Time</label>
@@ -633,7 +455,6 @@
                 </div>
               </div>
 
-
             <div class="row mb-4">
                 <label class="form-label" for="form6Example1">Number of PAX</label>
                 <div class="col">
@@ -649,33 +470,6 @@
                 </div>
                 </div>
             </div>
-<!-- 
-              <div class="form-outline mb-4">
-                <input type="text" id="form3Example1" class="form-control" />
-                <label class="form-label" for="textAreaExample">Nature of Function</label>
-              </div> -->
-
-
-              <!-- <div class="row mb-3">
-                <div class="col">
-                  <div class="form-outline">
-                    <input type="text" id="form8Example3" class="form-control" />
-                    <label class="form-label" for="form8Example3">First name</label>
-                  </div>
-                </div>
-                <div class="col">
-                  <div class="form-outline">
-                    <input type="text" id="form8Example4" class="form-control" />
-                    <label class="form-label" for="form8Example4">Last name</label>
-                  </div>
-                </div>
-                <div class="col">
-                  <div class="form-outline">
-                    <input type="email" id="form8Example5" class="form-control" />
-                    <label class="form-label" for="form8Example5">Email address</label>
-                  </div>
-                </div>
-              </div> -->
 
               <!--Message input-->
               <div class="form-outline mb-4">
@@ -704,9 +498,6 @@
           </div>
         </div>
         </section>
-
-
-
 
 
                 <!-- Footer -->
@@ -814,10 +605,7 @@
                     </div>
                   </section>
                   <!-- Section: Links  -->
-        
-                  <!-- <hr class="my-5" /> -->
-        
-        
+                
                   <!-- Copyright -->
                   <div class="text-center p-4" style="background-color: #303031; color: white;">
                     Copyright © 2023 :
@@ -827,26 +615,15 @@
                 </footer>
                 <!-- Footer -->
         
-        
                 <!-- Back to top button -->
                 <button type="button" class="btn btn-floating btn-lg" id="btn-back-to-top" style="background-color: #fea116;">
                   <i class="fas fa-arrow-up"></i>
                 </button>
-        
-        
-        
+      
             </div>
           </main>
         
-        
-        
-        
-
-
-
-
-              
-
+      
     <!-- Copyright -->
   </footer>
   <!--Footer-->
