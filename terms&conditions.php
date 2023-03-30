@@ -17,9 +17,8 @@
   <body>
     <div class="mt-5">
         <div class="px-5 mx-5 mb-4">
-            <h3>KISE_HOTEL</h3>
-            <h4>CONDITIONS FOR HIRE</h4>
-
+            <h3>ARC <span style="color: #fea116;">Hotel</span></h3>
+            <h4>CONDITIONS <span style="color: #fea116;">FOR HIRE</span></h4>
         </div>
         <div class="px-5">
             <p class="pb-2" style="font-weight: bold;">The hire of Kenya Institute of Special Education hotel will be subject to the following observation;</p>
@@ -38,7 +37,7 @@
             <p>13. Tents pitched within the Institute should be removed immediately after the function is over. A fee of KSh. 2000/= will be charged for any extra day.</p>
             <p>14. The Institute expects all clients using it's facilities to adhere to the Ministry of Health guidelines in line with Covid-19 protocols.</p>
         </div>
-            <a class="mx-5" style="font-weight: bold;" href="./restaurant.html">
+            <a class="mx-5" style="font-weight: bold; font-size: ; color: #fea116;" href="./restaurant.php">
                 Back
             </a>
 

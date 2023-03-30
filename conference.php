@@ -50,7 +50,7 @@
 
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="font-size: large;">
                         <li class="nav-item active">
-                            <a class="nav-link" style="color: black;" aria-current="page" href="./index.html">Home</a>
+                            <a class="nav-link" style="color: black;" aria-current="page" href="./index.php">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" style="color: black;" href="#" rel="nofollow" target="">About Us</a>
@@ -63,19 +63,19 @@
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li>
                                     <a class="dropdown-item" style="color: black;" target="_blank"
-                                        href="./restaurant.html">Restaurant</a>
+                                        href="./restaurant.php">Restaurant</a>
                                 </li>
                                 <li>
                                     <a class="dropdown-item" style="color: black;" target="_blank"
-                                        href="./conference.html">Conference Facilities</a>
+                                        href="./conference.php">Conference Facilities</a>
                                 </li>
                                 <li>
                                     <a class="dropdown-item" style="color: black;" target="_blank"
-                                        href="./accommodation.html">Accommodation</a>
+                                        href="./accommodation.php">Accommodation</a>
                                 </li>
                                 <li>
                                     <a class="dropdown-item" style="color: black;" target="_blank"
-                                        href="./gardens.html">Hire of Grounds</a>
+                                        href="./gardens.php">Hire of Grounds</a>
                                 </li>
                             </ul>
                         </li>
@@ -139,12 +139,12 @@
                         <div class="bg-image hover-overlay">
                             <img src="./img/lagat.JPG" class="w-100" />
                             <div class="mask" style="
-                      background: linear-gradient(
-                        45deg,
-                        hsla(168, 85%, 52%, 0.5),
-                        hsla(263, 88%, 45%, 0.5) 100%
-                      );
-                    "></div>
+                                background: linear-gradient(
+                                    45deg,
+                                    hsla(168, 85%, 52%, 0.5),
+                                    hsla(263, 88%, 45%, 0.5) 100%
+                                );
+                                "></div>
                         </div>
                     </div>
 
@@ -171,120 +171,170 @@
     <!--about us section-->
 
     <!--specific halls start-->
-    <section class="">
-    <h4 class="text-center mt-3"><strong>Our <span style="color: #fea116;">Halls</span></strong></h4>
+    <div class="mt-5">
         <div class="container">
-            <div class="d-flex align-items-start bg-light mb-3" style="">
-                <div class="col">
-                    <div class="card">
-                        <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                            <img src="./img/Lagat Conference Hall from Back.JPG" class="img-fluid" />
-                            <a href="#!">
-                                <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-                            </a>
-                        </div>
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the
-                                card's content.</p>
-                            <a href="#!" class="btn btn-primary">Button</a>
-                        </div>
-                    </div>
+            <h4 class="text-center m-3"><strong>Our <span style="color: #fea116;">Halls</span></strong></h4>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 mb-3">
 
-                </div>
-                <div class="col">
                     <div class="card">
                         <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                            <img src="./img/Lagat Conference Hall from Back.JPG" class="img-fluid" />
+                            <img src="./img/lagat.JPG" class="img-fluid" />
                             <a href="#!">
                                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
                             </a>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the
-                                card's content.</p>
-                            <a href="#!" class="btn btn-primary">Button</a>
+                            <h5 class="card-title text-center" style="color: black;"><b>Lagat</b></h5>
+                            <p>The conference facility is spacious, modern, tech-equipped and accommodating.
+                            </p>
+                            <!-- <ul>
+                                <li>bathroom & balcony</li>
+                                <li>disability friendly</li>
+                                <li>linen & towels provided</li>
+                            </ul> -->
+                            <!-- <p class="ps-5"><b>Price per Night</b> (bed only) <br>
+                                <span style="color: #fea116; font-size: x-large;">KSh 3,000</span>
+                            </p> -->
+                            <!-- <div class="text-center">
+                                <a href="#!" class="btn" style="background-color: #fea116;">Book</a>
+                            </div> -->
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-lg-4 col-md-6 mb-3">
                     <div class="card">
                         <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                            <img src="./img/Lagat Conference Hall from Back.JPG" class="img-fluid" />
+                            <img src="./img/lagat10.JPG" class="img-fluid" />
                             <a href="#!">
                                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
                             </a>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the
-                                card's content.</p>
-                            <a href="#!" class="btn btn-primary">Button</a>
+                            <h5 class="card-title text-center" style="color: black;"><b>Seneiya</b></h5>
+                            <p>The conference facility is spacious, modern, tech-equipped and accommodating.</p>
+   <!--                          <ul>
+                                <li>bathroom & balcony</li>
+                                <li>disability friendly</li>
+                                <li>linen & towels provided</li>
+                            </ul> -->
+                            <!-- <p class="ps-5"><b>Price per Night</b> (bed only) <br>
+                                <span style="color: #fea116; font-size: x-large;">KSh 5,000</span>
+                            </p> -->
+                            <!-- <div class="text-center">
+                                <a href="#!" class="btn" style="background-color: #fea116;">Book</a>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-3">
+                    <div class="card">
+                        <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+                            <img src="./img/conf3.JPG" class="img-fluid" />
+                            <a href="#!">
+                                <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+                            </a>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title text-center" style="color: black;"><b>Council Boardroom</b></h5>
+                            <p>The conference facility is spacious, modern, tech-equipped and accommodating.</p>
+                            <!-- <ul>
+                                <li>bathroom & balcony</li>
+                                <li>disability friendly</li>
+                                <li>linen & towels provided</li>
+                            </ul> -->
+                            <!-- <p class="ps-5"><b>Price per Night</b> (bed only) <br>
+                                <span style="color: #fea116; font-size: x-large;">KSh 6,000</span>
+                            </p> -->
+                            <!-- <div class="text-center">
+                                <a href="#!" class="btn" style="background-color: #fea116;">Book</a>
+                            </div> -->
                         </div>
                     </div>
                 </div>
             </div>
-            
-            <div class="d-flex align-items-center bg-light mb-3" style="">
-                <div class="col">
+
+            <div class="row">
+                <div class="col-lg-4 col-md-6 mb-3">
+
                     <div class="card">
                         <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                            <img src="./img/Lagat Conference Hall from Back.JPG" class="img-fluid" />
+                            <img src="./img/Kifaru Dining 2.jpg" class="img-fluid" />
                             <a href="#!">
                                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
                             </a>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the
-                                card's content.</p>
-                            <a href="#!" class="btn btn-primary">Button</a>
+                            <h5 class="card-title text-center" style="color: black;"><b>Kifaru</b></h5>
+                            <p>The conference facility is spacious, modern, tech-equipped and accommodating.
+                            </p>
+                            <!-- <ul>
+                                <li>bathroom & balcony</li>
+                                <li>disability friendly</li>
+                                <li>linen & towels provided</li>
+                            </ul> -->
+                          <!--   <p class="ps-5"><b>Price per Night</b> (bed only) <br>
+                                <span style="color: #fea116; font-size: x-large;">KSh 3,000</span>
+                            </p> -->
+                            <!-- <div class="text-center">
+                                <a href="#!" class="btn" style="background-color: #fea116;">Book</a>
+                            </div> -->
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-lg-4 col-md-6 mb-3">
                     <div class="card">
                         <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                            <img src="./img/Lagat Conference Hall from Back.JPG" class="img-fluid" />
+                            <img src="./img/Kifaru Dining.jpg" class="img-fluid" />
                             <a href="#!">
                                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
                             </a>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the
-                                card's content.</p>
-                            <a href="#!" class="btn btn-primary">Button</a>
+                            <h5 class="card-title text-center" style="color: black;"><b>Ndovu</b></h5>
+                            <p>The conference facility is spacious, modern, tech-equipped and accommodating.</p>
+                            <!-- <ul>
+                                <li>bathroom & balcony</li>
+                                <li>disability friendly</li>
+                                <li>linen & towels provided</li>
+                            </ul> -->
+                           <!--  <p class="ps-5"><b>Price per Night</b> (bed only) <br>
+                                <span style="color: #fea116; font-size: x-large;">KSh 5,000</span>
+                            </p> -->
+                            <!-- <div class="text-center">
+                                <a href="#!" class="btn" style="background-color: #fea116;">Book</a>
+                            </div> -->
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-lg-4 col-md-6 mb-3">
                     <div class="card">
                         <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                            <img src="./img/Lagat Conference Hall from Back.JPG" class="img-fluid" />
+                            <img src="./img/conf4.JPG" class="img-fluid" />
                             <a href="#!">
                                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
                             </a>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the
-                                card's content.</p>
-                            <a href="#!" class="btn btn-primary">Button</a>
+                            <h5 class="card-title text-center" style="color: black;"><b>Simba</b></h5>
+                            <p>The conference facility is spacious, modern, tech-equipped and accommodating.</p>
+                            <!-- <ul>
+                                <li>bathroom & balcony</li>
+                                <li>disability friendly</li>
+                                <li>linen & towels provided</li>
+                            </ul> -->
+                            <!-- <p class="ps-5"><b>Price per Night</b> (bed only) <br>
+                                <span style="color: #fea116; font-size: x-large;">KSh 6,000</span>
+                            </p> -->
+                            <!-- <div class="text-center">
+                                <a href="#!" class="btn" style="background-color: #fea116;">Book</a>
+                            </div> -->
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-
+    </div>
     <!--specific halls end-->
 
     <!--gallery section-->
@@ -300,7 +350,6 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-4">
-
                                 <div class="card">
                                     <div class="bg-image hover-overlay hover-zoom hover-shadow ripple"
                                         data-mdb-ripple-color="light">
@@ -466,7 +515,7 @@
 
                 <div class="row d-flex justify-content-center">
                     <div class="col-md-6">
-                        <form action="https://formsubmit.co/ombevab@kise.ac.ke" method="POST">
+                        <form action="https://formsubmit.co/ombevab@kise.ac.ke" target="_blank" method="POST">
                             <!-- 2 column grid layout with text inputs for the first and last names -->
                             <div class="row mb-4">
                                 <div class="col">
@@ -640,7 +689,7 @@
                                 <p><i class="fas fa-home me-3"></i> Kasarani, Nairobi, Kenya</p>
                                 <p>
                                     <i class="fas fa-envelope me-3"></i>
-                                    info@kise.ac.ke
+                                    hospitality@kise.ac.ke
                                 </p>
                                 <p><i class="fas fa-phone me-3"></i>0722 444 476</p>
                                 <p><i class="fas fa-print me-3"></i>020 8007977</p>

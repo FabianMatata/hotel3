@@ -370,7 +370,7 @@
 
         <div class="row d-flex justify-content-center">
           <div class="col-md-6">
-            <form action="https://formsubmit.co/ombevab@kise.ac.ke" method="POST">
+            <form action="https://formsubmit.co/ombevab@kise.ac.ke" target="_blank" method="POST">
               <div class="row mb-4">
                 <div class="col">
                   <div class="form-outline">
@@ -513,7 +513,7 @@
                   <p><i class="fas fa-home me-3"></i> Kasarani, Nairobi, Kenya</p>
                   <p>
                     <i class="fas fa-envelope me-3"></i>
-                    info@kise.ac.ke
+                    hospitality@kise.ac.ke
                   </p>
                   <p><i class="fas fa-phone me-3"></i>0722 444 476</p>
                   <p><i class="fas fa-print me-3"></i>020 8007977</p>

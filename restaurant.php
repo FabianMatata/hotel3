@@ -60,7 +60,7 @@
 
         <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="font-size: large;">
           <li class="nav-item active">
-            <a class="nav-link" style="color: black;" aria-current="page" href="./index.html">Home</a>
+            <a class="nav-link" style="color: black;" aria-current="page" href="./index.php">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" style="color: black;" href="#" rel="nofollow"
@@ -80,16 +80,16 @@
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <li>
-                <a class="dropdown-item" style="color: black;" target="_blank" href="./restaurant.html">Restaurant</a>
+                <a class="dropdown-item" style="color: black;" target="_blank" href="./restaurant.php">Restaurant</a>
               </li>
               <li>
-                <a class="dropdown-item" style="color: black;" target="_blank" href="./conference.html">Conference Facilities</a>
+                <a class="dropdown-item" style="color: black;" target="_blank" href="./conference.php">Conference Facilities</a>
               </li>
               <li>
-                <a class="dropdown-item" style="color: black;" target="_blank" href="./accommodation.html">Accommodation</a>
+                <a class="dropdown-item" style="color: black;" target="_blank" href="./accommodation.php">Accommodation</a>
               </li>
               <li>
-                <a class="dropdown-item" style="color: black;" target="_blank" href="./gardens.html">Hire of Grounds</a>
+                <a class="dropdown-item" style="color: black;" target="_blank" href="./gardens.php">Hire of Grounds</a>
               </li>
             </ul>
           </li>
@@ -354,7 +354,7 @@
 
         <div class="row d-flex justify-content-center">
           <div class="col-md-6">
-            <form>
+            <form action="https://formsubmit.co/ombevab@kise.ac.ke" target="_blank" method="POST">
               <div class="row mb-4">
                 <div class="col">
                   <div class="form-outline">
@@ -419,7 +419,7 @@
                   value=""
                   id="form6Example8"/>
                 <label class="form-check-label" for="form6Example8">
-                  <a href="./terms&conditions.html" target="_blank">Terms & Conditions</a>
+                  <a href="./terms&conditions.php" target="_blank">Terms & Conditions</a>
                 </label>
               </div>
 
@@ -529,7 +529,7 @@
                           <p><i class="fas fa-home me-3"></i> Kasarani, Nairobi, Kenya</p>
                           <p>
                             <i class="fas fa-envelope me-3"></i>
-                            info@kise.ac.ke
+                            hospitality@kise.ac.ke
                           </p>
                           <p><i class="fas fa-phone me-3"></i>0722 444 476</p>
                           <p><i class="fas fa-print me-3"></i>020 8007977</p>
