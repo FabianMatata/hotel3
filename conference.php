@@ -218,7 +218,7 @@
                         <div class="card-body">
                             <h5 class="card-title text-center" style="color: black;"><b>Seneiya</b></h5>
                             <p>The conference facility is spacious, modern, tech-equipped and accommodating.</p>
-                            <p class="text-center"><b>Capacity: <span style="color: #fea116;">200 PAX</span> </b></p>
+                            <p class=""><b>Capacity: <span style="color: #fea116;">200 PAX</span> </b></p>
                             <p class="text-center"><b>Price per Day</b><br>
                                 <span style="color: #fea116; font-size: x-large;">KSh 30,000</span>
                             </p>
@@ -247,7 +247,7 @@
                         <div class="card-body">
                             <h5 class="card-title text-center" style="color: black;"><b>Council Boardroom</b></h5>
                             <p>The conference facility is spacious, modern, tech-equipped and accommodating.</p>
-                            <p class="text-center"><b>Capacity: <span style="color: #fea116;">10 PAX</span> </b></p>
+                            <p class=""><b>Capacity: <span style="color: #fea116;">10 PAX</span> </b></p>
                             <p class="text-center"><b>Price per Day</b><br>
                                 <span style="color: #fea116; font-size: x-large;">KSh 30,000</span>
                             </p>
@@ -281,7 +281,7 @@
                             <h5 class="card-title text-center" style="color: black;"><b>Kifaru</b></h5>
                             <p>The conference facility is spacious, modern, tech-equipped and accommodating.
                             </p>
-                            <p class="text-center"><b>Capacity: <span style="color: #fea116;">20 PAX</span> </b></p>
+                            <p class=""><b>Capacity: <span style="color: #fea116;">20 PAX</span> </b></p>
                             <p class="text-center"><b>Price per Day</b><br>
                                 <span style="color: #fea116; font-size: x-large;">KSh 20,000</span>
                             </p>
@@ -310,7 +310,7 @@
                         <div class="card-body">
                             <h5 class="card-title text-center" style="color: black;"><b>Ndovu</b></h5>
                             <p>The conference facility is spacious, modern, tech-equipped and accommodating.</p>
-                            <p class="text-center"><b>Capacity: <span style="color: #fea116;">20 PAX</span> </b></p>
+                            <p class=""><b>Capacity: <span style="color: #fea116;">20 PAX</span> </b></p>
                             <p class="text-center"><b>Price per Day</b><br>
                                 <span style="color: #fea116; font-size: x-large;">KSh 20,000</span>
                             </p>
@@ -339,7 +339,7 @@
                         <div class="card-body">
                             <h5 class="card-title text-center" style="color: black;"><b>Simba</b></h5>
                             <p>The conference facility is spacious, modern, tech-equipped and accommodating.</p>
-                            <p class="text-center"><b>Capacity: <span style="color: #fea116;">20 PAX</span> </b></p>
+                            <p class=""><b>Capacity: <span style="color: #fea116;">20 PAX</span> </b></p>
                             <p class="text-center"><b>Price per Day</b><br>
                                 <span style="color: #fea116; font-size: x-large;">KSh 20,000</span>
                             </p>
