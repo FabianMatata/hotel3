@@ -50,12 +50,21 @@
 
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="font-size: large;">
                         <li class="nav-item active">
-                            <a class="nav-link" style="color: black;" aria-current="page" href="./index.php">Home</a>
+                            <a class="nav-link" style="color: black;" aria-current="page" target="_blank" href="./index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" style="color: black;" href="#" rel="nofollow" target="">About Us</a>
+                            <a class="nav-link" style="color: black;" href="#about" rel="nofollow" target="">About Us</a>
                         </li>
-                        <li class="nav-item dropdown">
+                        <li class="nav-item">
+                            <a class="nav-link" style="color: black;" href="#halls" rel="nofollow" target="">Halls</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" style="color: black;" href="#gallery" rel="nofollow" target="">Gallery</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" style="color: black;" href="#reservations" rel="nofollow" target="">Reservations</a>
+                        </li>
+                        <!-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
                                 data-mdb-toggle="dropdown" aria-expanded="false" style="color: black;">
                                 Facilities
@@ -78,10 +87,10 @@
                                         href="./gardens.php">Hire of Grounds</a>
                                 </li>
                             </ul>
-                        </li>
-                        <li class="nav-item">
+                        </li> -->
+                        <!-- <li class="nav-item">
                             <a class="nav-link" style="color: black;" href="#" target="">Contact Us</a>
-                        </li>
+                        </li> -->
 
 
                         <form class="d-flex input-group w-auto ps-4">
@@ -132,7 +141,7 @@
     <!--about us section-->
     <div>
         <div>
-            <section class="container pt-5">
+            <section class="container pt-5" id="about">
                 <div class="row">
                     <div class="col-md-6 gx-5 mb-4">
 
@@ -171,6 +180,7 @@
     <!--about us section-->
 
     <!--specific halls start-->
+    <section id="halls">
     <div class="mt-5">
         <div class="container">
             <h4 class="text-center m-3"><strong>Our <span style="color: #fea116;">Halls</span></strong></h4>
@@ -360,6 +370,7 @@
             </div>
         </div>
     </div>
+    </section>
     <!--specific halls end-->
 
     <!--gallery section-->

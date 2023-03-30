@@ -50,12 +50,20 @@
 
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="font-size: large;">
                         <li class="nav-item active">
-                            <a class="nav-link" style="color: black;" aria-current="page" href="./index.php">Home</a>
+                            <a class="nav-link" style="color: black;" aria-current="page" target="_blank" href="./index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" style="color: black;" href="#" rel="nofollow" target="">About Us</a>
+                            <a class="nav-link" style="color: black;" href="#accommodations" rel="nofollow" target="">Accommodations</a>
                         </li>
-                        <li class="nav-item dropdown">
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" style="color: black;" href="#gallery" rel="nofollow" target="">Gallery</a>
+                        </li>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" style="color: black;" href="#reservations" rel="nofollow" target="">Reservations</a>
+                        </li>
+                        <!-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
                                 data-mdb-toggle="dropdown" aria-expanded="false" style="color: black;">
                                 Facilities
@@ -78,10 +86,10 @@
                                         href="./gardens.php">Hire of Grounds</a>
                                 </li>
                             </ul>
-                        </li>
-                        <li class="nav-item">
+                        </li> -->
+                        <!-- <li class="nav-item">
                             <a class="nav-link" style="color: black;" href="#" target="">Contact Us</a>
-                        </li>
+                        </li> -->
 
 
                         <form class="d-flex input-group w-auto ps-4">
@@ -132,6 +140,7 @@
     <!--navbar ends-->
 
     <!--rooms section start-->
+    <section id="accommodations">
     <div class="mt-5">
         <div class="container">
             <h3 class="title pb-3 text-center" style="color: #fea116;">Accommodations</h3>
@@ -218,6 +227,8 @@
             </div>
         </div>
     </div>
+    </section>
+    <!--rooms section end-->
 
 
     <!--gallery section-->
