@@ -428,9 +428,9 @@
 
                             <select class="form-select mb-2" name="Selected Room" aria-label="Default select example">
                                 <option selected>Select Room</option>
-                                <option value="1">Single</option>
-                                <option value="2">Double</option>
-                                <option value="3">Twin Bed</option>
+                                <option value="Single Room">Single Room</option>
+                                <option value="Double Room">Double Room</option>
+                                <option value="Twin Bed Room">Twin Bed Room</option>
                             </select>
 
                             <div class="row mb-4">
@@ -552,7 +552,7 @@
                                     <a href="#!" class="text-reset">Hire of Grounds</a>
                                 </p>
                                 <p>
-                                    <a href="#!" class="text-reset">Accomodation</a>
+                                    <a href="#!" class="text-reset">Accommodation</a>
                                 </p>
                                 <p>
                                     <a href="#!" class="text-reset">Conference Facilities</a>
