@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>ARC Hotel</title>
+    <title>ARC Restaurant</title>
     <link rel="icon" type="image/x-icon" href="./img/1590459524214.jpeg">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
@@ -174,8 +174,8 @@
                 <h4><strong><span style="color: #fea116;">Restaurant</span></strong></h4>
                 <div class="text-center" style="font-size: large;">
                   <p>Our restaurant facility offers a unique and memorable dining experience, combining exceptional cuisine with a warm and inviting atmosphere. <br>
-                     Menu features a range of delicious dishes that showcase the finest local and seasonal ingredients, prepared by our talented chefs with a focus on flavor and presentation. <br>
-                     Our dining spaces are designed to provide a relaxed and comfortable ambiance, with stylish decor and attentive service that ensures a memorable experience. <br>
+                     Menu features a range of delicious dishes that showcase the finest local and seasonal ingredients, prepared by our professional chefs with a focus on flavor and presentation. <br>
+                     Our dining spaces are disability mainstreamed with ease of accessibility. <br> Designed to provide a relaxed and comfortable ambiance, with stylish decor and attentive service that ensures a memorable experience. <br>
                      Whether you're looking for an intimate dinner for two or a larger gathering with family and friends, our restaurant facility offers a versatile and welcoming venue for all occasions.</p>
                 </div>
               </div>

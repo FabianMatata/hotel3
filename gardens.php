@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>ARC Hotel</title>
+    <title>ARC Grounds</title>
     <link rel="icon" type="image/x-icon" href="./img/1590459524214.jpeg">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
@@ -174,7 +174,7 @@
     
               <div class="col-md-6 gx-5 mb-4">
                 <h4><strong><span style="color: #fea116;">Gardens</span></strong></h4>
-                <div class="" style="font-size: large;">
+                <div class="text-center" style="font-size: large;">
                   <p>Our garden facility is a stunning outdoor venue that offers a serene and picturesque setting for a range of events. <br> 
                     From weddings and corporate retreats to private parties and more, our garden can accommodate a variety of occasions. <br>
                     The facility features lush greenery, colorful flowers, and unique features such as a gazebo and a tranquil pond. <br>

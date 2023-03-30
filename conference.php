@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>ARC Hotel</title>
+    <title>ARC Conference</title>
     <link rel="icon" type="image/x-icon" href="./img/1590459524214.jpeg">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
@@ -150,7 +150,7 @@
 
                     <div class="col-md-6 gx-5 mb-4">
                         <h4><strong><span style="color: #fea116;">Conference</span></strong></h4>
-                        <div class="" style="font-size: large;">
+                        <div class="text-center" style="font-size: large;">
                             <p>Our conference facility is a state-of-the-art venue designed to provide a professional
                                 and productive atmosphere for meetings, conferences, and events. <br>
                                 Equipped with the latest technology and amenities, our facility offers a range of
@@ -188,6 +188,11 @@
                             <h5 class="card-title text-center" style="color: black;"><b>Lagat</b></h5>
                             <p>The conference facility is spacious, modern, tech-equipped and accommodating.
                             </p>
+                            <p class=""><b>Capacity: <span style="color: #fea116;">600 PAX</span> </b></p>
+
+                            <p class="text-center"><b>Price per Day</b><br>
+                                <span style="color: #fea116; font-size: x-large;">KSh 100,000</span>
+                            </p>
                             <!-- <ul>
                                 <li>bathroom & balcony</li>
                                 <li>disability friendly</li>
@@ -213,6 +218,10 @@
                         <div class="card-body">
                             <h5 class="card-title text-center" style="color: black;"><b>Seneiya</b></h5>
                             <p>The conference facility is spacious, modern, tech-equipped and accommodating.</p>
+                            <p class="text-center"><b>Capacity: <span style="color: #fea116;">200 PAX</span> </b></p>
+                            <p class="text-center"><b>Price per Day</b><br>
+                                <span style="color: #fea116; font-size: x-large;">KSh 30,000</span>
+                            </p>
    <!--                          <ul>
                                 <li>bathroom & balcony</li>
                                 <li>disability friendly</li>
@@ -238,6 +247,10 @@
                         <div class="card-body">
                             <h5 class="card-title text-center" style="color: black;"><b>Council Boardroom</b></h5>
                             <p>The conference facility is spacious, modern, tech-equipped and accommodating.</p>
+                            <p class="text-center"><b>Capacity: <span style="color: #fea116;">10 PAX</span> </b></p>
+                            <p class="text-center"><b>Price per Day</b><br>
+                                <span style="color: #fea116; font-size: x-large;">KSh 30,000</span>
+                            </p>
                             <!-- <ul>
                                 <li>bathroom & balcony</li>
                                 <li>disability friendly</li>
@@ -268,6 +281,10 @@
                             <h5 class="card-title text-center" style="color: black;"><b>Kifaru</b></h5>
                             <p>The conference facility is spacious, modern, tech-equipped and accommodating.
                             </p>
+                            <p class="text-center"><b>Capacity: <span style="color: #fea116;">20 PAX</span> </b></p>
+                            <p class="text-center"><b>Price per Day</b><br>
+                                <span style="color: #fea116; font-size: x-large;">KSh 20,000</span>
+                            </p>
                             <!-- <ul>
                                 <li>bathroom & balcony</li>
                                 <li>disability friendly</li>
@@ -293,6 +310,10 @@
                         <div class="card-body">
                             <h5 class="card-title text-center" style="color: black;"><b>Ndovu</b></h5>
                             <p>The conference facility is spacious, modern, tech-equipped and accommodating.</p>
+                            <p class="text-center"><b>Capacity: <span style="color: #fea116;">20 PAX</span> </b></p>
+                            <p class="text-center"><b>Price per Day</b><br>
+                                <span style="color: #fea116; font-size: x-large;">KSh 20,000</span>
+                            </p>
                             <!-- <ul>
                                 <li>bathroom & balcony</li>
                                 <li>disability friendly</li>
@@ -318,6 +339,10 @@
                         <div class="card-body">
                             <h5 class="card-title text-center" style="color: black;"><b>Simba</b></h5>
                             <p>The conference facility is spacious, modern, tech-equipped and accommodating.</p>
+                            <p class="text-center"><b>Capacity: <span style="color: #fea116;">20 PAX</span> </b></p>
+                            <p class="text-center"><b>Price per Day</b><br>
+                                <span style="color: #fea116; font-size: x-large;">KSh 20,000</span>
+                            </p>
                             <!-- <ul>
                                 <li>bathroom & balcony</li>
                                 <li>disability friendly</li>
@@ -564,13 +589,23 @@
                             </div>
 
                             <div class="form-outline mb-4">
-                                <input type="text" id="form3Example1" class="form-control" />
+                                <input type="text" id="form3Example1" class="form-control" placeholder="E.g. wedding" />
                                 <label class="form-label" for="textAreaExample">Nature of Function</label>
                             </div>
 
+                            <select class="form-select mb-3" name="Selected Hall" aria-label="Default select example">
+                                <option selected>Select Hall</option>
+                                <option value="Lagat Hall">Lagat Hall</option>
+                                <option value="Seneiya Hall">Seneiya Hall</option>
+                                <option value="Council Boardroom">Council Boardroom</option>
+                                <option value="Kifaru Hall">Kifaru Hall</option>
+                                <option value="Ndovu Hall">Ndovu Hall</option>
+                                <option value="Simba Hall">Simba Hall</option>
+                            </select>
+
                             <!--Message input-->
                             <div class="form-outline mb-4">
-                                <textarea class="form-control" id="textAreaExample" rows="4"></textarea>
+                                <textarea class="form-control" id="textAreaExample" rows="4" placeholder="E.g. projector"></textarea>
                                 <label class="form-label" for="textAreaExample">Extras Needed</label>
                             </div>
 
