@@ -353,7 +353,7 @@
                 <h1 class="counter" data-target="2345">0</h1>
               </div>
               <div class="counter-item">
-                <h3>Accomodation</h3>
+                <h3>Accommodation</h3>
                 <h1 class="counter" data-target="1410">0</h1>
               </div>
               <div class="counter-item">

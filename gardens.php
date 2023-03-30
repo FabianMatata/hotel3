@@ -490,16 +490,16 @@
                             Facilities
                           </h6>
                           <p>
-                            <a href="#!" class="text-reset">Hire of Grounds</a>
+                            <a href="./gardens.php" class="text-reset">Hire of Grounds</a>
                           </p>
                           <p>
-                            <a href="#!" class="text-reset">Accommodation</a>
+                            <a href="./accommodation.php" class="text-reset">Accommodation</a>
                           </p>
                           <p>
-                            <a href="#!" class="text-reset">Conference Facilities</a>
+                            <a href="./conference.php" class="text-reset">Conference Facilities</a>
                           </p>
                           <p>
-                            <a href="#!" class="text-reset">Restaurant</a>
+                            <a href="./restaurant.php" class="text-reset">Restaurant</a>
                           </p>
                         </div>
                         <!-- Grid column -->
