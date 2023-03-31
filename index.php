@@ -39,43 +39,43 @@
                     <!-- Navbar brand -->
                     <a class="navbar-brand mt-2 mt-lg-0" href="#">
                         <div class="ms-5">
-                            <img class="px-1" src="./img/kise_icon.png" height="22" alt="" loading="lazy" />
+                            <img class="mx-2" src="./img/kise_icon.png" height="22" alt="" loading="lazy" />
                             <small style="font-weight: bold; color: black;">ARC Hotel</small>
                         </div>
 
                     </a>
                 </div>
 
-                <div class="d-flex align-items-center pe-5">
+                <div class="d-flex align-items-center">
 
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="font-size: large;">
-                        <li class="nav-item active">
+                        <li class="nav-item active px-1 mx-2">
                             <a class="nav-link" style="color: black;" aria-current="page" href="#intro">Home</a>
                         </li>
                         
                         <!-- <li class="nav-item">
                             <a class="nav-link" style="color: black;" href="#" rel="nofollow" target="">About Us</a>
                         </li> -->
-                        <li class="nav-item dropdown">
+                        <li class="nav-item dropdown px-1 mx-2">
                             <a class="nav-link dropdown-toggle" href="#facilities" id="navbarDropdownMenuLink"
                                 role="button" data-mdb-toggle="dropdown" aria-expanded="false" style="color: black;">
                                 Facilities
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li>
-                                    <a class="dropdown-item" style="color: black;" target="_blank"
+                                    <a class="dropdown-item" style="color: black;" target=""
                                         href="./restaurant.php">Restaurant</a>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item" style="color: black;" target="_blank"
+                                    <a class="dropdown-item" style="color: black;" target=""
                                         href="./conference.php">Conference Facilities</a>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item" style="color: black;" target="_blank"
+                                    <a class="dropdown-item" style="color: black;" target=""
                                         href="./accommodation.php">Accommodation</a>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item" style="color: black;" target="_blank"
+                                    <a class="dropdown-item" style="color: black;" target=""
                                         href="./gardens.php">Hire of Grounds</a>
                                 </li>
                             </ul>
@@ -83,13 +83,12 @@
         <!--                 <li class="nav-item">
                             <a class="nav-link" style="color: black;" href="#amenities" target="">Amenities</a>
                         </li> -->
-                        <li class="nav-item">
+                        <li class="nav-item px-1 mx-2">
                             <a class="nav-link" style="color: black;" href="#amenities" target="">Amenities</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item px-1 mx-2">
                             <a class="nav-link" style="color: black;" href="#contact" target="">Contact Us</a>
                         </li>
-
 
                         <form class="d-flex input-group w-auto ps-4">
                             <input type="search" class="form-control rounded" placeholder="Search" aria-label="Search"
@@ -210,7 +209,7 @@
                             <div class="bg-image hover-overlay hover-zoom hover-shadow ripple"
                                 data-mdb-ripple-color="light">
                                 <img src="./img/waterfall.jpg" class="img-fluid" />
-                                <a href="./restaurant.php" target="_blank">
+                                <a href="./restaurant.php" target="">
                                     <div class="mask" style="background-color: hsla(195, 83%, 58%, 0.2)"></div>
                                 </a>
                             </div>
@@ -219,7 +218,7 @@
                                 <p class="card-text">
                                     Delicious cuisine, exceptional service, inviting atmosphere.
                                 </p>
-                                <a href="./restaurant.html" target="_blank" class="btn btn-3"
+                                <a href="./restaurant.php" target="" class="btn btn-3"
                                     style="background-color: #fea116; color: black; font-size: large;">See Details</a>
                             </div>
                         </div>
@@ -230,7 +229,7 @@
                             <div class="bg-image hover-overlay hover-zoom hover-shadow ripple"
                                 data-mdb-ripple-color="light">
                                 <img src="./img/lagat.JPG" class="img-fluid" />
-                                <a href="./conference.php" target="_blank">
+                                <a href="./conference.php" target="">
                                     <div class="mask" style="background-color: hsla(195, 83%, 58%, 0.2)"></div>
 
                                 </a>
@@ -240,7 +239,7 @@
                                 <p class="card-text">
                                     State-of-the-art amenities, flexible spaces, professional atmosphere.
                                 </p>
-                                <a href="./conference.html" target="_blank" class="btn btn-3"
+                                <a href="./conference.php" target="" class="btn btn-3"
                                     style="background-color: #fea116; color: black; font-size: large;">See Details</a>
                             </div>
                         </div>
@@ -251,7 +250,7 @@
                             <div class="bg-image hover-overlay hover-zoom hover-shadow ripple"
                                 data-mdb-ripple-color="light">
                                 <img src="./img/bed.JPG" class="img-fluid" />
-                                <a href="./accommodation.php" target="_blank">
+                                <a href="./accommodation.php" target="">
                                     <div class="mask" style="background-color: hsla(195, 83%, 58%, 0.2)"></div>
 
                                 </a>
@@ -261,7 +260,7 @@
                                 <p class="card-text">
                                     Comfortable, convenient, welcoming, well-appointed, exceptional service.
                                 </p>
-                                <a href="./accommodation.php" target="_blank" class="btn btn-3"
+                                <a href="./accommodation.php" target="" class="btn btn-3"
                                     style="background-color: #fea116; color: black; font-size: large;">See Details</a>
                             </div>
                         </div>
@@ -272,7 +271,7 @@
                             <div class="bg-image hover-overlay hover-zoom hover-shadow ripple"
                                 data-mdb-ripple-color="light">
                                 <img src="./img/Playground.JPG" class="img-fluid" />
-                                <a href="./gardens.php" target="_blank">
+                                <a href="./gardens.php" target="">
                                     <div class="mask" style="background-color: hsla(195, 83%, 58%, 0.2)"></div>
                                 </a>
                             </div>
@@ -281,7 +280,7 @@
                                 <p class="card-text">
                                     Transform your events with our charming, versatile garden rental space.
                                 </p>
-                                <a href="./gardens.php" target="_blank" class="btn btn-3"
+                                <a href="./gardens.php" target="" class="btn btn-3"
                                     style="background-color: #fea116; color: black; font-size: large;">See Details</a>
                             </div>
                         </div>
@@ -333,20 +332,23 @@
                     <div class="counter-grid">
                         <div class="counter-item">
                             <h3>Restaurant</h3>
-                            <h1 class="counter" data-target="1857">0</h1>
+                            <p>Capacity</p>
+                            <h1 class="counter" data-target="150">0</h1>
                         </div>
                         <div class="counter-item">
                             <h3>Conferences</h3>
-                            <h1 class="counter" data-target="2345">0</h1>
+                            <p>Number of Conference halls</p>
+                            <h1 class="counter" data-target="6">0</h1>
                         </div>
                         <div class="counter-item">
                             <h3>Accommodation</h3>
-                            <h1 class="counter" data-target="1410">0</h1>
+                            <p>Number of Accommodation rooms</p>
+                            <h1 class="counter" data-target="48">0</h1>
                         </div>
-                        <div class="counter-item">
+                        <!-- <div class="counter-item">
                             <h3>Gardens</h3>
                             <h1 class="counter" data-target="4700">0</h1>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </section>
@@ -461,17 +463,17 @@
                                     Facilities
                                 </h6>
                                 <p>
-                                    <a href="./gardens.php" target="_blank" class="text-reset">Hire of Grounds</a>
+                                    <a href="./gardens.php" target="" class="text-reset">Hire of Grounds</a>
                                 </p>
                                 <p>
-                                    <a href="./accommodation.php" target="_blank" class="text-reset">Accommodation</a>
+                                    <a href="./accommodation.php" target="" class="text-reset">Accommodation</a>
                                 </p>
                                 <p>
-                                    <a href="./conference.php" target="_blank" class="text-reset">Conference
+                                    <a href="./conference.php" target="" class="text-reset">Conference
                                         Facilities</a>
                                 </p>
                                 <p>
-                                    <a href="./restaurant.php" target="_blank" class="text-reset">Restaurant</a>
+                                    <a href="./restaurant.php" target="" class="text-reset">Restaurant</a>
                                 </p>
                             </div>
                             <!-- Grid column -->

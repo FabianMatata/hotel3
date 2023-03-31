@@ -49,19 +49,19 @@
                 <div class="d-flex align-items-center pe-5">
 
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="font-size: large;">
-                        <li class="nav-item active">
-                            <a class="nav-link" style="color: black;" aria-current="page" target="_blank" href="./index.php">Home</a>
+                        <li class="nav-item active px-1 mx-2">
+                            <a class="nav-link" style="color: black;" aria-current="page" target="" href="./index.php">Home</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item px-1 mx-2">
                             <a class="nav-link" style="color: black;" href="#about" rel="nofollow" target="">About Us</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item px-1 mx-2">
                             <a class="nav-link" style="color: black;" href="#halls" rel="nofollow" target="">Halls</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item px-1 mx-2">
                             <a class="nav-link" style="color: black;" href="#gallery" rel="nofollow" target="">Gallery</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item px-1 mx-2">
                             <a class="nav-link" style="color: black;" href="#reservations" rel="nofollow" target="">Reservations</a>
                         </li>
                         <!-- <li class="nav-item dropdown">
@@ -624,7 +624,7 @@
                             <div class="form-check d-flex justify-content-center mb-4">
                                 <input class="form-check-input me-2" type="checkbox" value="" id="form6Example8" />
                                 <label class="form-check-label" for="form6Example8">
-                                    <a href="./terms&conditions.html" target="_blank">Terms & Conditions</a>
+                                    <a href="./terms&conditions.php" target="_blank">Terms & Conditions</a>
                                 </label>
                             </div>
 
