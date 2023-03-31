@@ -444,7 +444,7 @@
                                 <option value="Twin Bed Room">Twin Bed Room</option>
                             </select>
 
-                            <div class="row mb-4">
+                            <div class="row mb-2">
                                 <label class="form-label" for="form6Example1">Check in Date & Time</label>
                                 <div class="col">
                                     <div class="form-outline">
@@ -461,7 +461,7 @@
                                 </div>
                             </div>
 
-                            <div class="row mb-4">
+                            <div class="row mb-3">
                                 <label class="form-label" for="form6Example1">Number of PAX</label>
                                 <div class="col">
                                     <div class="form-outline">

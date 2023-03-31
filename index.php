@@ -52,9 +52,10 @@
                         <li class="nav-item active">
                             <a class="nav-link" style="color: black;" aria-current="page" href="#intro">Home</a>
                         </li>
-                        <li class="nav-item">
+                        
+                        <!-- <li class="nav-item">
                             <a class="nav-link" style="color: black;" href="#" rel="nofollow" target="">About Us</a>
-                        </li>
+                        </li> -->
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#facilities" id="navbarDropdownMenuLink"
                                 role="button" data-mdb-toggle="dropdown" aria-expanded="false" style="color: black;">
@@ -82,6 +83,9 @@
         <!--                 <li class="nav-item">
                             <a class="nav-link" style="color: black;" href="#amenities" target="">Amenities</a>
                         </li> -->
+                        <li class="nav-item">
+                            <a class="nav-link" style="color: black;" href="#amenities" target="">Amenities</a>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link" style="color: black;" href="#contact" target="">Contact Us</a>
                         </li>
