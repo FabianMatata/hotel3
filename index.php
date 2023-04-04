@@ -345,17 +345,77 @@
                             <p>Number of Accommodation rooms</p>
                             <h1 class="counter" data-target="48">0</h1>
                         </div>
-                        <!-- <div class="counter-item">
-                            <h3>Gardens</h3>
-                            <h1 class="counter" data-target="4700">0</h1>
-                        </div> -->
                     </div>
                 </div>
             </section>
 
             <!--Section: Content-->
-            <section class="mb-5" id="contact">
-                <h4 class="mb-5 text-center"><strong> <span style="color: #fea116;">Contact</span> Us</strong></h4>
+            <section class="container" id="contact">
+            <div class="row">
+                    <div class="col-lg-6 col-md-6 mb-3">
+                        <div class="card">
+                        <h4 class="mb-5 text-center"><strong> <span style="color: #fea116;">Contact</span> Us</strong></h4>
+                        <div class="row d-flex justify-content-center">
+                    <div class="col-md-6">
+                        <form action="https://formsubmit.co/ombevab@kise.ac.ke" target="_blank" method="POST">
+                            <div class="row mb-4">
+                                <div class="col">
+                                    <div class="form-outline">
+                                        <input type="text" id="form3Example1" class="form-control" />
+                                        <label class="form-label" for="form3Example1">First name</label>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="form-outline">
+                                        <input type="text" id="form3Example2" class="form-control" />
+                                        <label class="form-label" for="form3Example2">Last name</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row mb-4">
+                                <div class="col">
+                                    <div class="form-outline">
+                                        <input type="email" id="form3Example1" class="form-control" />
+                                        <label class="form-label" for="form3Example1">Email address</label>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="form-outline">
+                                        <input type="number" id="form3Example2" class="form-control" />
+                                        <label class="form-label" for="form3Example2">Phone Number</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-outline mb-4">
+                                <textarea class="form-control" id="textAreaExample" rows="3"></textarea>
+                                <label class="form-label" for="textAreaExample">Message</label>
+                            </div>
+                            <button type="submit" class="btn btn-block mb-4 btn-3"
+                                style="background-color: #fea116; color: white; font-weight: bolder;">
+                                Submit
+                            </button>
+                        </form>
+                        <br><br>
+                    </div>
+                </div>
+
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 mb-3 ">
+                        <div class="card px-5 pb-4">
+                        <h4 class="px-5 mx-5"><strong> <span style="color: #fea116;">Location</span></strong></h4>
+                        <div class="mx-5 px-5">
+                        <div class="mapouter"><div class="gmap_canvas"><iframe width="400" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=kenya institute of special education&t=&z=10&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://2yu.co">2yu</a><br><style>.mapouter{position:relative;text-align:right;height:350px;width:400px;}</style><a href="https://embedgooglemap.2yu.co">html embed google map</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:350px;width:400px;}</style></div></div>
+
+                        </div>
+
+
+ 
+
+                    </div>
+            
+                <!-- <h4 class="mb-5 text-center"><strong> <span style="color: #fea116;">Contact</span> Us</strong></h4>
                 <div class="row d-flex justify-content-center">
                     <div class="col-md-6">
                         <form action="https://formsubmit.co/ombevab@kise.ac.ke" target="_blank" method="POST">
@@ -373,8 +433,6 @@
                                     </div>
                                 </div>
                             </div>
-
-                            <!-- 2 column grid layout with text inputs for the email and phone number -->
                             <div class="row mb-4">
                                 <div class="col">
                                     <div class="form-outline">
@@ -389,22 +447,17 @@
                                     </div>
                                 </div>
                             </div>
-
-                            <!--Message input-->
                             <div class="form-outline mb-4">
                                 <textarea class="form-control" id="textAreaExample" rows="3"></textarea>
                                 <label class="form-label" for="textAreaExample">Message</label>
                             </div>
-
-                            <!-- Submit button -->
                             <button type="submit" class="btn btn-block mb-4 btn-3"
                                 style="background-color: #fea116; color: white; font-weight: bolder;">
                                 Submit
                             </button>
-
                         </form>
                     </div>
-                </div>
+                </div> -->
             </section>
 
 
