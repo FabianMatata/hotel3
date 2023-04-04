@@ -367,19 +367,19 @@
                             <div class="px-5">
                                 <form action="https://formsubmit.co/mfabian601@gmail.com" method="POST" target="_blank" onsubmit="reset();">
                                     <div class="form-outline mb-4 ">
-                                        <input type="text " id="Name " class="form-control " />
+                                        <input type="text " id="Name" name="Name" class="form-control " />
                                         <label class="form-label " for="form4Example1 ">Full Name</label>
                                     </div>
                                     <div class="form-outline mb-4 ">
-                                        <input type="email " id="Email " class="form-control " />
+                                        <input type="email " id="Email" name="Email" class="form-control " />
                                         <label class="form-label " for="form4Example2 ">Email address</label>
                                     </div>
                                     <div class="form-outline mb-4 ">
-                                        <input type="number " id="Phone_Number " class="form-control " />
+                                        <input type="number " id="Phone_Number" name="Phone_number" class="form-control " />
                                         <label class="form-label " for="form4Example2 ">Phone Number</label>
                                     </div>
                                     <div class="form-outline mb-4 ">
-                                        <textarea class="form-control " id="Message " rows="4 "></textarea>
+                                        <textarea class="form-control " id="Message" name="Message" rows="4 "></textarea>
                                         <label class="form-label " for="form4Example3 ">Message</label>
                                     </div>
                                     <button type="submit " class="btn btn-block mb-4 " style="background-color: #fea116; ">Send</button>
@@ -517,22 +517,6 @@
     <!-- Copyright -->
     </footer>
     <!--Footer-->
-
-    <script src="https://smtpjs.com/v3/smtp.js ">
-    </script>
-    <script>
-        Email.send({
-            Host: "smtp.elasticemail.com ",
-            Username: "username ",
-            Password: "password ",
-            To: 'them@website.com',
-            From: "you@isp.com ",
-            Subject: "This is the subject ",
-            Body: "And this is the body "
-        }).then(
-            message => alert(message)
-        );
-    </script>
     <script src="./js/js.js "></script>
     <!-- MDB -->
     <script type="text/javascript " src="js/mdb.min.js "></script>
